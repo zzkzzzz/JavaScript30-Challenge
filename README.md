@@ -7,7 +7,7 @@ With my own understanding and ideas about js, html and css
 [Link](https://javascript30.com/) to orginal website
 
 ## Content
- - [x] JavaScript Drum Kit
+ - [x] [JavaScript Drum Kit](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/1-Drum%20Kit)
  - [ ] JS + CSS Clock
  - [ ] CSS Variables
  - [ ] Array Cardio, Day 1
