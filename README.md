@@ -2,7 +2,7 @@
 
 30 VanillaJS projects. No frameworks, no libraries, no wrappers.
 
-With my own understanding and ideas in js, html and cs
+With my own understanding and ideas about js, html and css
 
 [Link](https://javascript30.com/) to orginal website
 
