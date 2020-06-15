@@ -16,7 +16,8 @@ when a a css transition completed
 #### change styles: 
 ``` key.classList.add("playing");```
 ```classList``` accessing an element's list of classes, can add, remove and toggle
-
+<br/><br/>
+<br/><br/>
 ### HTML
  
 ```data-*``` attributes allow us to store extra information on standard, semantic HTML elements
@@ -33,8 +34,8 @@ like ```data-key```
 ```
 
 ```<audio>``` element is used to play an audio file on a web page.
-
-
+<br/><br/>
+<br/><br/>
 ### CSS
 ```pointer-events: none;```
 
