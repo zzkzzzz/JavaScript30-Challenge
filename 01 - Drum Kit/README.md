@@ -1,5 +1,5 @@
 # Drum Kit
-view demo [here](https://zzkzzzz.github.io/JavaScript30-Challenge/1-Drum%20Kit/index.html)<br/><br/>
+view demo [here](https://zzkzzzz.github.io/JavaScript30-Challenge/01%20-%20Drum%20Kit/index.html)<br/><br/>
 Button click and key press are both available
 
 ## NOTES
@@ -34,16 +34,14 @@ like ```data-key```
 ```
 
 ```<audio>``` element is used to play an audio file on a web page.
-<br/><br/>
-<br/><br/>
+
+
 ### CSS
-```pointer-events: none;```
+```pointer-events: none;```:prevent all click, state and cursor options on the specified HTML element
 
-prevent all click, state and cursor options on the specified HTML element
+``` transform: scale(1.4);```:scale the element to 1.4
 
-``` transform: scale(1.4);```
 
-scale the element to 1.4
 
 ```  transition: all 0.07s ease;```
 
