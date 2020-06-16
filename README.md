@@ -7,8 +7,8 @@ With my own understanding and ideas about js, html and css
 [Link](https://javascript30.com/) to orginal website
 
 ## Content
- - [x] [JavaScript Drum Kit](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/1-Drum%20Kit)
- - [ ] JS + CSS Clock
+ - [x] [JavaScript Drum Kit](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/01%20-%20Drum%20Kit)
+ - [x] [JS + CSS Clock](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/02%20-%20JS%20and%20CSS%20Clock)
  - [ ] CSS Variables
  - [ ] Array Cardio, Day 1
  - [ ] Flex Panel Gallery
