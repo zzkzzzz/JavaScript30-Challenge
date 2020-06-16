@@ -34,16 +34,14 @@ like ```data-key```
 ```
 
 ```<audio>``` element is used to play an audio file on a web page.
-<br/><br/>
-<br/><br/>
+
+
 ### CSS
-```pointer-events: none;```
+```pointer-events: none;```:prevent all click, state and cursor options on the specified HTML element
 
-prevent all click, state and cursor options on the specified HTML element
+``` transform: scale(1.4);```:scale the element to 1.4
 
-``` transform: scale(1.4);```
 
-scale the element to 1.4
 
 ```  transition: all 0.07s ease;```
 
