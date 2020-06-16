@@ -1,5 +1,5 @@
 # Drum Kit
-view demo [here](https://zzkzzzz.github.io/JavaScript30-Challenge/01 - Drum%20Kit/index.html)<br/><br/>
+view demo [here](https://zzkzzzz.github.io/JavaScript30-Challenge/01%-%Drum%20Kit/index.html)<br/><br/>
 Button click and key press are both available
 
 ## NOTES
