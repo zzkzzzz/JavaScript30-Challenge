@@ -10,7 +10,7 @@ With my own understanding and ideas about js, html and css
  - [x] [JavaScript Drum Kit](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/01%20-%20Drum%20Kit)
  - [x] [JS + CSS Clock](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/02%20-%20JS%20and%20CSS%20Clock)
  - [x] [CSS Variables](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/03%20-%20CSS%20Variables)
- - [ ] Array Cardio, Day 1
+ - [x] [Array Cardio, Day 1](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/04%20-%20Array%20Cardio%20Day%201)
  - [ ] Flex Panel Gallery
  - [ ] Type Ahead
  - [ ] Array Cardio, Day 2
