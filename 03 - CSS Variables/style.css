@@ -15,10 +15,6 @@ img {
   color: var(--base);
 }
 
-/*
-misc styles, nothing to do with CSS variables
-*/
-
 body {
   text-align: center;
   background: #193549;
