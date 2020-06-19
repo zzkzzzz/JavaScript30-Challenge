@@ -17,11 +17,6 @@ let lastY = 0;
 let hue = 0;
 let direction = true;
 
-ctx.beginPath();
-ctx.moveTo(25, 25);
-ctx.lineTo(105, 25);
-ctx.lineTo(25, 105);
-
 function draw(e) {
   if (!isDrawing) return; // stop the fn from running when they are not moused down
   console.log(e);
