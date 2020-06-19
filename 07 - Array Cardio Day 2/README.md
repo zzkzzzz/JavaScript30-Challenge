@@ -1,5 +1,6 @@
 # Array Cardio Day 2
-[demo](https://zzkzzzz.github.io/JavaScript30-Challenge/04%20-%20Array%20Cardio%20Day%202/index.html)
+[demo](https://zzkzzzz.github.io/JavaScript30-Challenge/07%20-%20Array%20Cardio%20Day%202/index.html)
+
 
 ## NOTES
 ### JS
