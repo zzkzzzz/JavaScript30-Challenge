@@ -7,6 +7,7 @@ hold shift can multi check and uncheck.
 
 ### JS
   - `const checkboxes = document.querySelectorAll('.inbox input[type="checkbox"]');`
+  
     get all the input element which type is checkbox inside inbox
   
 ### HTML
