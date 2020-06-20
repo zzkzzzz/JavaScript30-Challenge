@@ -17,7 +17,7 @@ With my own understanding and ideas about js, html and css
  - [x] [Fun with HTML5 Canvas](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
  - [x] [Dev Tools Domination](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/09%20-%20Dev%20Tools%20Domination)
  - [x] [Hold Shift and Check Checkboxes](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
- - [ ] Custom Video Player
+ - [x] [Custom Video Player](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/11%20-%20Custom%20Video%20Player)
  - [ ] Key Sequence Detection
  - [ ] Slide in on Scroll
  - [ ] JavaScript References vs. Copying
