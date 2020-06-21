@@ -43,7 +43,7 @@ body {
 .player__video {
   width: 100%;
 }
-.fullscreen {
+.fullscreen{
   min-width: 100%;
   min-height: 100%;
 }
