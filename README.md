@@ -18,7 +18,7 @@ With my own understanding and ideas about js, html and css
  - [x] [Dev Tools Domination](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/09%20-%20Dev%20Tools%20Domination)
  - [x] [Hold Shift and Check Checkboxes](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
  - [x] [Custom Video Player](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/11%20-%20Custom%20Video%20Player)
- - [ ] Key Sequence Detection
+ - [x] [Key Sequence Detection](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/12%20-%20Key%20Sequence%20Detection)
  - [ ] Slide in on Scroll
  - [ ] JavaScript References vs. Copying
  - [ ] LocalStorage
