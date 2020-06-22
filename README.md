@@ -21,7 +21,7 @@ With my own understanding and ideas about js, html and css
  - [x] [Key Sequence Detection](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/12%20-%20Key%20Sequence%20Detection)
  - [x] [Slide in on Scroll](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/13%20-%20Slide%20in%20on%20Scroll)
  - [x] [JavaScript References vs. Copying](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/14%20-%20JavaScript%20References%20VS%20Copying)
- - [ ] LocalStorage
+ - [x] [LocalStorage](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/15%20-%20LocalStorage)
  - [ ] Mouse Move Shadow
  - [ ] Sort Without Articles
  - [ ] Adding Up Times with Reduce
