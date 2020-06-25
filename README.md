@@ -26,7 +26,7 @@ With my own understanding and ideas about js, html and css
  - [x] [Sort Without Articles](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/17%20-%20Sort%20Without%20Articles)
  - [x] [Adding Up Times with Reduce](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce)
  - [x] [Webcam Fun](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/19%20-%20Webcam%20Fun)
- - [ ] Speech Detection
+ - [x] Speech Detection(https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/20%20-%20Speech%20Detection)
  - [ ] Geolocation
  - [ ] Follow Along Link Highlighter
  - [ ] Speech Synthesis
