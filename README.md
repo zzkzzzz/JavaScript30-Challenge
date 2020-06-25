@@ -23,9 +23,9 @@ With my own understanding and ideas about js, html and css
  - [x] [JavaScript References vs. Copying](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/14%20-%20JavaScript%20References%20VS%20Copying)
  - [x] [LocalStorage](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/15%20-%20LocalStorage)
  - [x] [Mouse Move Shadow](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/16%20-%20Mouse%20Move%20Shadow)
- - [ ] Sort Without Articles
- - [ ] Adding Up Times with Reduce
- - [ ] Webcam Fun
+ - [x] [Sort Without Articles](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/17%20-%20Sort%20Without%20Articles)
+ - [x] [Adding Up Times with Reduce](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce)
+ - [x] [Webcam Fun](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/19%20-%20Webcam%20Fun)
  - [ ] Speech Detection
  - [ ] Geolocation
  - [ ] Follow Along Link Highlighter
