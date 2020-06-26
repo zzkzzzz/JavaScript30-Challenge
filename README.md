@@ -27,7 +27,7 @@ With my own understanding and ideas about js, html and css
  - [x] [Adding Up Times with Reduce](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce)
  - [x] [Webcam Fun](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/19%20-%20Webcam%20Fun)
  - [x] [Speech Detection](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/20%20-%20Speech%20Detection)
- - [ ] Geolocation
+ - [x] [Geolocation](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/21%20-%20Geolocation)
  - [ ] Follow Along Link Highlighter
  - [ ] Speech Synthesis
  - [ ] Sticky Nav
