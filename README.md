@@ -29,7 +29,7 @@ With my own understanding and ideas about js, html and css
  - [x] [Speech Detection](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/20%20-%20Speech%20Detection)
  - [x] [Geolocation](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/21%20-%20Geolocation)
  - [x] [Follow Along Link Highlighter](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/22%20-%20Follow%20Along%20Link%20Highlighter)
- - [ ] Speech Synthesis
+ - [x] Speech Synthesis(https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/23%20-%20Speech%20Synthesis)
  - [ ] Sticky Nav
  - [ ] Event Capture, Propagation, Bubbling, and Once
  - [ ] Stripe Follow Along Nav
