@@ -8,6 +8,7 @@ msg.text = document.querySelector('[name="text"]').value;
 
 function populateVoices() {
   voices = this.getVoices();
+  console.log(voices);
   voicesDropdown.innerHTML = voices
     .filter((voice) => voice.lang.includes("en"))
     .map(
