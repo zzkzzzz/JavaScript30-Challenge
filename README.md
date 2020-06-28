@@ -34,6 +34,6 @@ With my own understanding and ideas about js, html and css
  - [x] [Event Capture, Propagation, Bubbling, and Once](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once)
  - [x] [Stripe Follow Along Nav](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/26%20-%20Stripe%20Follow%20Along%20Nav)
  - [x] [Click and Drag](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/27%20-%20Click%20and%20Drag)
- - [ ] Video Speed Controller
+ - [x] [Video Speed Controller](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/28%20-%20Video%20Speed%20Controller)
  - [ ] Countdown Timer
  - [ ] Whack A Mole
