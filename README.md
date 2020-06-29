@@ -36,4 +36,4 @@ With my own understanding and ideas about js, html and css
  - [x] [Click and Drag](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/27%20-%20Click%20and%20Drag)
  - [x] [Video Speed Controller](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/28%20-%20Video%20Speed%20Controller)
  - [x] [Countdown Timer](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/29%20-%20Countdown%20Timer)
- - [ ] Whack A Mole
+ - [x] [Whack A Mole](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/30%20-%20Whack%20A%20Mole)
