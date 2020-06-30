@@ -4,7 +4,9 @@
 
 With my own understanding and ideas about js, html and css
 
-[Link](https://javascript30.com/) to orginal website
+- [Website](https://javascript30.com/) 
+- [Github](https://github.com/wesbos/JavaScript30)
+- @wesbos
 
 ## Content
  - [x] [JavaScript Drum Kit](https://github.com/zzkzzzz/JavaScript30-Challenge/tree/master/01%20-%20Drum%20Kit)
